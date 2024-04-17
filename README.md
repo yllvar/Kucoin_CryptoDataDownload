@@ -1,4 +1,4 @@
-**Title: Comprehensive Guide to Setting Up and Using the KuCoin Historical Data Downloader**
+**Comprehensive Guide to Setting Up and Using the KuCoin Historical Data Downloader**
 
 Cryptocurrency trading relies heavily on historical data for making informed decisions. The KuCoin Historical Data Downloader simplifies the process of retrieving historical data for cryptocurrencies traded on the KuCoin exchange. Fetching historical data for cryptocurrencies traded on the KuCoin exchange is now a straightforward process.
 
