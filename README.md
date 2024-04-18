@@ -1,4 +1,4 @@
-**Comprehensive Guide to Setting Up and Using the KuCoin Historical Data Downloader**
+# Comprehensive Guide to Setting Up and Using the KuCoin Historical Data Downloader**
 
 Cryptocurrency trading relies heavily on historical data for making informed decisions. The KuCoin Historical Data Downloader simplifies the process of retrieving historical data for cryptocurrencies traded on the KuCoin exchange. Fetching historical data for cryptocurrencies traded on the KuCoin exchange is now a straightforward process.
 
@@ -46,22 +46,4 @@ For example, if you want to download historical data from Binance instead of KuC
 
 Keep in mind that different exchanges may have different APIs, data formats, rate limits, and authentication requirements, so you'll need to familiarize yourself with the documentation of the specific exchange you're interested in working with. Additionally, ensure that you comply with any usage guidelines, terms of service, or rate limits imposed by the exchange to avoid any issues or violations.
 
-### Usage
 
-1. **Execute the Script:** In your terminal or command prompt, run the `download_kucoin_data.py` script using Python. You can do this by typing the following command:
-   ```
-   python download_kucoin_data.py
-   ```
-2. **Monitor Progress:** The script will send a GET request to the specified URL and download the data. You will see progress messages in the terminal indicating whether the download was successful or not.
-
-3. **Retrieve Downloaded Data:** Upon successful execution, the downloaded CSV file containing historical data will be saved in the project directory.
-
-### Preparing Project Directory
-
-1. **Organize Your Files:** Once the data is downloaded, you may want to organize your project directory by creating separate folders for data storage, scripts, documentation, etc.
-
-2. **Naming Conventions:** Use clear and descriptive names for your files and folders to ensure easy navigation and understanding.
-
-3. **Version Control:** Consider using a version control system like Git to track changes to your project and collaborate with others.
-
-By following this guide, you can quickly set up the downloader, retrieve historical data, and organize your project directory for efficient data analysis and trading decision-making. Happy trading!
